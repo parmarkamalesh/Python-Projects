@@ -1,1 +1,0 @@
-# Python script to remove duplicates from a list of strings.
